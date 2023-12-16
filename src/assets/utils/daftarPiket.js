@@ -1,0 +1,136 @@
+const piket = [
+  {
+    nama: "Abrar Wahid",
+    sesi: "1",
+    hari: "Senin",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Ahmad Nur Ain",
+    sesi: "1",
+    hari: "Senin",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Ai Nurlaeli Maulatul Azizah",
+    sesi: "1",
+    hari: "Senin",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Anis Agustin",
+    sesi: "2",
+    hari: "Senin",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Desfi Silvia Aros",
+    sesi: "2",
+    hari: "Senin",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Dhea Anggi Natasya",
+    sesi: "2",
+    hari: "Senin",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Dwi Ferdiansyah",
+    sesi: "1",
+    hari: "Selasa",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Ervan Satrya Perdana",
+    sesi: "1",
+    hari: "Selasa",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Farhan Basyari",
+    sesi: "1",
+    hari: "Selasa",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Gugun Guntara",
+    sesi: "2",
+    hari: "Selasa",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Milhatun Nida",
+    sesi: "2",
+    hari: "Selasa",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Putri Nabila Kosasih",
+    sesi: "2",
+    hari: "Selasa",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Retno Sari Sirotujanah",
+    sesi: "1",
+    hari: "Rabu",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Reyhan Vemas Perdiansyah",
+    sesi: "1",
+    hari: "Rabu",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Riri Nurazizah",
+    sesi: "1",
+    hari: "Rabu",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Sandi Firdaus",
+    sesi: "2",
+    hari: "Rabu",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Satria Winata",
+    sesi: "2",
+    hari: "Rabu",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Shalma Primasari Dewi",
+    sesi: "1",
+    hari: "Kamis",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Surya Sakti Sujana",
+    sesi: "1",
+    hari: "Kamis",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Valmadia Alviana Gunawan",
+    sesi: "1",
+    hari: "Kamis",
+    waktu: "09:00-12:00",
+  },
+  {
+    nama: "Vikri Akbar",
+    sesi: "2",
+    hari: "Kamis",
+    waktu: "12:00-15:00",
+  },
+  {
+    nama: "Zacky Hafsari",
+    sesi: "2",
+    hari: "Kamis",
+    waktu: "12:00-15:00",
+  },
+];
+
+export default piket;
